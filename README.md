@@ -93,4 +93,8 @@ The AEF feature columns are named from A00 to A63. These columns are used as mod
 The scripts are provided to support reproducibility of the model training, feature analysis, and regional prediction workflow described in the manuscript.
 
 
+**7. License**
+
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0).
+
 
